@@ -29,7 +29,6 @@ Le dataset utilisé provient de l'ensemble de données **IMDB**, qui contient :
 - **F1-Score** : 84.5%
 - **AUC** : 0.91
 
-## Points à Améliorer
 - Optimisation des hyperparamètres pour améliorer les performances.
 - Enrichissement du dataset avec des embeddings préentraînés (ex : GloVe, Word2Vec).
 - Comparaison avec d'autres modèles comme SVM ou Random Forest.
